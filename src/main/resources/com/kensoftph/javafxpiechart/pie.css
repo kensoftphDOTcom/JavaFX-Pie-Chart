@@ -1,0 +1,39 @@
+.chart-pie.data0 {
+    -fx-background-image: url("./flag/china.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: repeat;
+}
+
+.chart-pie.data1 {
+    -fx-background-image: url("./flag/india.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: repeat;
+}
+
+.chart-pie.data2 {
+    -fx-background-image: url("./flag/usa.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: repeat;
+}
+
+.chart-pie.data3 {
+    -fx-background-image: url("./flag/indonesia.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: repeat;
+}
+
+.chart-pie.data4 {
+    -fx-background-image: url("./flag/pakistan.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+    -fx-background-repeat: repeat;
+}
+
+.chart-legend-item-symbol {
+    -fx-pref-width: 100;
+    -fx-pref-height: 40;
+}
